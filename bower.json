@@ -1,0 +1,37 @@
+{
+  "name": "angular-schema-form-shamsidatepicker",
+  "authors": [
+    "s.mohsen.bazghandi <mohsen.bazghandi@gmail.com>"
+  ],
+  "version": "1.0.0",
+  "description": "this is for rtl language",
+  "main": [
+    "bootstrap-datepicker.min.js"
+  ],
+  "keywords": [
+    "angular-schema-form",
+    "schema-form",
+    "form",
+    "json",
+    "json-schema",
+    "schema",
+    "shamsi",
+    "jalali"
+  ],
+  "dependencies": {
+    "angular-persian-datepicker": "~1.0.0"
+  },
+  "devDependencies": {
+    "angular-schema-form": ">= 0.8",
+    "angular-mocks": ">= 1.2"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/SMohsenBazghandi/angular-schema-form-shamsidatepicker",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
