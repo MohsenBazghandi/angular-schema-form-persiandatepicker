@@ -5,9 +5,7 @@ example :
 var form = [
                 {
                         "type": "datepicker",
-                        "key": "improver#cheque#date",
-                        "validationMessage": "validationMessage({isEmpty: '', isJalaliDate: ''}) ",
-                        "$validators": "validate({isEmpty: '', isJalaliDate: ''})",
+                        "key": "date",
                         "htmlClass": "schema_input_form",
                         "options": {
                           "minDate": "1360/01/01",
