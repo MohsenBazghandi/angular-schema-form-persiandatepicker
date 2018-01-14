@@ -16,7 +16,8 @@
     "json-schema",
     "schema",
     "shamsi",
-    "jalali"
+    "jalali",
+    "persian"
   ],
   "dependencies": {
     "angular-persian-datepicker": "~1.0.0"
