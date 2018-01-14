@@ -1,5 +1,5 @@
 {
-  "name": "angular-schema-form-shamsidatepicker",
+  "name": "angular-schema-form-persiandatepicker",
   "authors": [
     "s.mohsen.bazghandi <mohsen.bazghandi@gmail.com>"
   ],
@@ -26,7 +26,7 @@
     "angular-mocks": ">= 1.2"
   },
   "license": "MIT",
-  "homepage": "https://github.com/SMohsenBazghandi/angular-schema-form-shamsidatepicker",
+  "homepage": "https://github.com/SMohsenBazghandi/angular-schema-form-persiandatepicker",
   "ignore": [
     "**/.*",
     "node_modules",
